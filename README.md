@@ -1,4 +1,7 @@
-<h1 align="center">Hello there!👋, I'm Arhan Basu</h1>
+![Blue Futuristic Technology Presentation](https://github.com/user-attachments/assets/9c8c5763-b1c6-45fb-b6ff-3ad777f56e80)
+
+
+<h1 align="center">Hello there!🙋‍♂️, I'm Arhan Basu</h1>
 <h3 align="center">A full stack developer and ML enthusiast. CSE undergrad @IIIT Kalyani.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhanbasu&label=Profile%20views&color=0e75b6&style=flat" alt="arhanbasu" /> </p>
